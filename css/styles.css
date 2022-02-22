@@ -974,12 +974,11 @@ h3 {
 .checkbox-wrapper {
   position: relative;
   margin-bottom: 30px;
-  padding-left: 36px;
 }
 
 .form-label.checkbox {
   display: flex;
-
+  padding-left: 36px;
   padding-right: 12px;
 
   margin-bottom: 0;
@@ -992,6 +991,7 @@ h3 {
 
 .checkbox-link {
   color: var(--accent-color);
+  margin-left: 3px;
 }
 
 .form-checkbox {
